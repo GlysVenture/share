@@ -1,6 +1,12 @@
-Reverse Engineering
+# Reverse Engineering
 
 *Sources: Recon2024*
+
+## Index
+- [techniques](#techniques)
+- [interesting tools](#interesting-tools)
+- [other tech](#other-tech)
+
 
 # Techniques
 
@@ -126,7 +132,7 @@ Emulation engine for Android bc (think Unicorn but Dalvik bytecode)
 
 ## [frida](https://frida.re/)
 
-# other relevant tech
+# other tech
 
 ## IRs
 
