@@ -1,4 +1,6 @@
-Recon2024 Notes
+Reverse Engineering
+
+*Sources: Recon2024*
 
 # Techniques
 
